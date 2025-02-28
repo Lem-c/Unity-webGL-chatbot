@@ -50,4 +50,4 @@ The project is currently under development...
 
 - Thanks to [DeepSeek](https://platform.deepseek.com/) for providing strong api support.
 - Thanks to [Unity Technologies](https://unity.com/) for the powerful Unity engine.
-- Thanks to [Penny Lu]([https://assetstore.unity.com/packages/essentials/textmesh-pro-84126](https://developer.unity.cn/projects/679a12dbedbc2adb85659390)) provide Unity access to DeepSeek to achieve AI dialogue function.
+- Thanks to [Penny Lu](https://developer.unity.cn/projects/679a12dbedbc2adb85659390) provide Unity access to DeepSeek to achieve AI dialogue function.
