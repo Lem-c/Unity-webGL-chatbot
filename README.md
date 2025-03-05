@@ -4,10 +4,20 @@ This Unity WebGL project implements a simple chatbot interface, where the user c
 
 ## Features
 
-- **User Input**: The user can enter text into a TMP (TextMeshPro) input field to communicate with the AI character.
-- **Gift Buttons**: Multiple gift buttons are available for the user to select from, each corresponding to a different gift. When a button is clicked, it sends a request with the gift description to the AI.
-- **Dialogue System**: The chatbot can respond to user input, as well as process gift interactions, showing updated dialogue in the chat.
-- **WebGL Deployment**: This project is optimized for Unity WebGL builds, allowing users to interact with the chatbot directly in a web browser.
+## 1. Amiable Conversation with ChatBot
+Engage in natural, friendly dialogues with ChatBot. Powered by DeepSeek, it understands your input and responds in a personable manner, ensuring conversations that feel both intuitive and enjoyable.
+
+## 2. Interactive Gift Giving
+Add a personal touch to your interactions by sending virtual gifts. This feature allows you to select from a variety of gifts, each with its own unique description and impact, fostering a more meaningful exchange.
+
+## 3. Likability Enhancement
+Watch your rapport grow as you converse with the ChatBot. Our likability enhancement mechanism rewards positive interactions, gradually improving your influence within the conversation and unlocking new possibilities.
+
+## 4. Achievement System (Ongoing)
+Track your milestones and celebrate your progress with our comprehensive achievement system. Earn badges and rewards as you reach new heights in your interactions, adding an element of fun and motivation to every conversation.
+
+## 5. Dialogue History
+Never lose track of a great conversation. With our dialogue history feature, you can review past chats at any time, allowing you to revisit key moments, insights, or simply relive your favorite interactions.
 
 
 ## Usage
