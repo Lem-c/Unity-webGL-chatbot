@@ -24,6 +24,9 @@ Never lose track of a great conversation. With our dialogue history feature, you
 
 Click to enter [Program interface](https://lem-c.github.io/Unity-webGL-chatbot/). Start an ai conversation by entering a deepseek API.
 
+![APP Overview](./ui_overview.png)
+
+
 ### Chatbot Interaction
 
 1. **Text Input**: The user can type messages into the TMP input field and press "Enter" to send the message to the AI. The AI will respond, and the response will be displayed in a TMP Text field.
